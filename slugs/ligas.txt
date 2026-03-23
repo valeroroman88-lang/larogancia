@@ -1,0 +1,10 @@
+# ligas.txt — Ligas para scrapear slugs de equipos
+# Formato: URL | Nombre
+# Líneas que empiezan con # son comentarios
+
+
+
+
+# Arabia Saudí
+https://www.flashscore.com/football/saudi-arabia/saudi-professional-league | Saudi Professional League
+
